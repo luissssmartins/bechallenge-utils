@@ -86,3 +86,24 @@ EXPOSE 8000
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 
 ```
+
+# Realizando o deploy em nuvem (front-end + back-end + postgresql)
+
+Para que haja o deploy em nuvem de forma correta, realize os seguintes passos abaixo:
+
+* Primeiramente, vamos buildar nossa imagem Docker do front-end e back-end:
+
+```bash
+
+$ docker compose build
+
+``
+
+* Depois, com todas as dependencias instaladas e a imagem construída, vamos colocar a imagem em funcionamento:
+
+```bash
+
+$ docker compose up
+
+```
+
