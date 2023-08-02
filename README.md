@@ -1,6 +1,6 @@
 # Desafio Web (Deploy)
 
-Este repositório contém os arquivos para realizar o deploy em uma máquina de hospedagem.
+Este repositório contém os arquivos necessários para realizar o deploy em nuvem.
 
 # Docker Compose
 
@@ -97,7 +97,7 @@ Para que haja o deploy em nuvem de forma correta, realize os seguintes passos ab
 
 $ docker compose build
 
-``
+```
 
 * Depois, com todas as dependencias instaladas e a imagem construída, vamos colocar a imagem em funcionamento:
 
