@@ -2,6 +2,12 @@
 
 Este repositório contém os arquivos necessários para realizar o deploy em nuvem.
 
+# Dependências necessárias em sua máquina
+
+* Python (versão 3.9 ou superior)
+* Node JS (versão 16 ou superior)
+* Postgre SQL ou imagem do PostreSQL no Docker
+
 # Docker Compose
 
 ```bash
