@@ -1,6 +1,6 @@
 # Desafio Web (Deploy)
 
-Este repositório contém os arquivos necessários para realizar o deploy em nuvem, clique (aqui)[http://bechallenge.luis-martins.com/] para acessar um deploy já realizado.
+Este repositório contém os arquivos necessários para realizar o deploy em nuvem, clique [aqui](http://bechallenge.luis-martins.com/) para acessar um deploy já realizado.
 
 # Dependências necessárias em sua máquina
 
